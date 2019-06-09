@@ -1,6 +1,7 @@
 
 OSINT Frameworks 
 https://github.com/FOGSEC/datasploit
+https://github.com/Ph055a/OSINT-Collection  
 
 
 Github 
@@ -10,9 +11,19 @@ Recon tools
 https://github.com/j3ssie/Osmedeus
 https://github.com/chrismaddalena/ODIN
 Swiss Army knife for OSINT https://github.com/aancw/Belati
+https://github.com/NullArray/IntRec-Pack
+TorBot https://github.com/DedSecInside/TorBot
+Google hacking    https://github.com/1N3/Goohak
+
 
 web scanner  https://github.com/0xInfection/TIDoS-Framework
 web scanner   https://github.com/1N3/BlackWidow
+ RapidScan - The Multi-Tool Web Vulnerability Scanner    https://github.com/skavngr/rapidscan
+
+
+Pentest 
+
+Automated pentest scanner https://github.com/1N3/Sn1per
 
 
 Censys for Maltego 
