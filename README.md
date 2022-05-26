@@ -59,6 +59,25 @@ Searchcode
 
 Babel X
 
+URLscan.io
+URLscan.io is a service that provides the end user with analysis of the IP address information and HTTP connections made during the site’s retrieval. The result panels include a top-level survey of what country the site is hosted in, what links are included on the main page and the IP location details. Details about how many subdomains it contains and what external links it contains can be found as well. 
+
+Through WHOIS analysis, hosting details can also be discovered. This can help lead investigators to find servers that host multiple sites or share webmasters, as well as valuable owner information.
+
+DomainIQ
+DomainIQ operates similarly to URLscan.io and can provide identifying details about the site owner, host and what other pages they may be operating.
+
+Carbon Date
+Carbon Date uses the advanced search engine technique of “carbon dating” that analyzes a website and gives the earliest known creation date of the page. You can also view previous versions of the page, including the first known scrape through archive.org.<br>
+https://carbondate.cs.odu.edu/#http://www.cs.odu.edu/
+
+Torch,or TorSearch, is a search engine designed to explore the hidden parts of the internet. Torch claims to have over a billion darknet pages indexed and allows users to browse the dark web uncensored and untracked.
+
+Dark.fail has been crowned the new hidden wiki. It indexes every major darknet site and keeps track of all domains linked to a particular hidden service.
+
+https://ahmia.fi/ another TOR Search 
+
+
 
   
   
