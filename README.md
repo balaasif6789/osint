@@ -49,17 +49,11 @@ Unlike the other OSINT tools discussed thus far, TinEye focuses on reverse image
 
 Mitaka 
 
-SpiderFoot
-
-BuiltWith
-
 Intelligence X
 
 DarkSearch.io
 
 Grep.app
-
-Shodan
 
 Searchcode
 
