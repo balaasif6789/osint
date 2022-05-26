@@ -47,5 +47,24 @@ TinEye
 Unlike the other OSINT tools discussed thus far, TinEye focuses on reverse image searches. It can help moderate content that’s posted on the web and to detect instances of fraud involving a brand. What’s more, teams can use TinEye to track where those images are appearing online.
 
 
+Mitaka 
+
+SpiderFoot
+
+BuiltWith
+
+Intelligence X
+
+DarkSearch.io
+
+Grep.app
+
+Shodan
+
+Searchcode
+
+Babel X
+
+
   
   
