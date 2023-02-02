@@ -46,6 +46,38 @@ TinEye
 
 Unlike the other OSINT tools discussed thus far, TinEye focuses on reverse image searches. It can help moderate content that’s posted on the web and to detect instances of fraud involving a brand. What’s more, teams can use TinEye to track where those images are appearing online.
 
+GreyNoise
+Search for devices connected to the internet (GreyNoise Website Link).
+
+Netlas
+Search and monitor internet connected assets (Netlas Website Link).
+
+ONYPHE
+Collects cyber-threat intelligence data (ONYPHE Website Link).
+
+FullHunt
+Search and discovery attack surfaces (FullHunt Website Link).
+
+GrepApp
+Search across a half million git repos (GrepApp Website Link).
+
+CRT sh
+Search for certs that have been logged by CT (CRT sh Website Link).
+
+GreyHatWarfare
+Search public S3 buckets (GreyHatWarfare Website Link).
+
+AlienVault
+Open Threat Intelligence Community (AlienVault Website Link).
+
+BinaryEdge
+Scans the internet for threat intelliegence (BinaryEdge Website Link)
+
+Hunter.io
+Search for email addresses belonging to a website (Hunter.io Website Link).
+
+LeakIX
+Search publicly indexed information (LeakIX Website Link).
 
 Mitaka 
 
